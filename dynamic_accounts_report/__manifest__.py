@@ -21,7 +21,7 @@
 #############################################################################
 
 {
-    'name': 'Dynamic Financial Reports',
+    'name': 'Dynamic Financial Reports Era',
     'version': '15.0.1.1.5',
     'category': 'Accounting',
     'live_test_url': 'https://www.youtube.com/watch?v=gVQi9q9Rs-E&t=5s',
